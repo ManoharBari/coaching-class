@@ -1,7 +1,6 @@
-import React from 'react';
 import { FlaskRound as Flask, Activity, BookOpen, Users } from 'lucide-react';
 
-const Services: React.FC = () => {
+const Services = () => {
     const services = [
         {
             id: 1,
